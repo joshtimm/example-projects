@@ -9,6 +9,6 @@ This code takes a folder of images (and only images), and submits the images to 
 
 This is a research design paper I wrote early on in my PhD. It demonstrates a strong understanding of experimental design and how experiments should be set up, from theory to design to expected observable implications. Broadly, the topic of the experiment is in using rhetorical appeals to increase the likelihood of a Member of Congress responding to constituent communication. I designed an experiment to test the effect of threatening not to vote for a Member of Congress in constituency contact on responsiveness and response quality from Members of Congress. The experiment was never actually conducted due to financial constraints, but I believe it remains a strong and simple experimental design.
 
-# random_salad.py and accompanying random salad robot
+# random_salad.py and accompanying random salad twitterbot
 
 This is a very silly project that I made for my friend and I, who frequented a restaurant called "Simply Salad" for lunch. Simply Salad offered full customizations of salads, and my friend was determined to try as many combinations of salad as possible. He used a random number generator app on his phone to pick his ingredients. Seeing that this was a waste of time and that the process could be streamlined, I decided to make a twitter bot that would randomly generate salads and tweet out the random salads right before lunch and dinner. That random salad generator can be found at https://twitter.com/randomsaladboi.
