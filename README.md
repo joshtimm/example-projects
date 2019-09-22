@@ -7,4 +7,4 @@ This code takes a folder of images (and only images), and submits the images to 
 
 # experiment_design_paper.pdf
 
-This is a research design paper I wrote early on in my PhD. It demonstrates a basic understanding of experimental design and how experiments should be set up, from theory to design to expected observable implications.
+This is a research design paper I wrote early on in my PhD. It demonstrates a strong understanding of experimental design and how experiments should be set up, from theory to design to expected observable implications. Broadly, the topic of the experiment is in using rhetorical appeals to increase the likelihood of a Member of Congress responding to constituent communication. I designed an experiment to test the effect of threatening not to vote for a Member of Congress in constituency contact on responsiveness and response quality of Members of Contact. The experiment was never actually conducted due to financial constraints, but I believe it remains a strong and simple experimental design.
