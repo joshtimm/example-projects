@@ -5,7 +5,7 @@ This is a simple collection of projects that demonstrate some of the skills I po
 # google_vision_classification.py
 This code takes a folder of images (and only images), and submits the images to the Google Vision API to label the images with 3 parameters: (1) a number of labels describing things contained in the image, (2) the likely emotion on the face of individuals in the image, and (3) performs optical character recognition to put in text form the images that actually contained text. The code outputs 3 CSVs containing the name of the image file annotated/labeled by the vision API and whatever applicable labels the google vision API could come up with. In essence, the code takes one folder full of images and outputs 3 csvs containing the name of those images and the accompanying labels from the API.
 
-# experiment_design_paper
+# experimental_design_paper
 
 This is a research design paper I wrote early on in my PhD. It demonstrates a strong understanding of experimental design and how experiments should be set up, from theory to design to expected observable implications. Broadly, the topic of the experiment is in using rhetorical appeals to increase the likelihood of a Member of Congress responding to constituent communication. I designed an experiment to test the effect of threatening not to vote for a Member of Congress in constituency contact on responsiveness and response quality from Members of Congress. The experiment was never actually conducted due to financial constraints, but I believe it remains a strong and simple experimental design. I included the necessary tex/code files necessary to reproduce the paper, but the file `experiment_design_paper.pdf` is likely the main point of interest, as it contains the entire design.
 
