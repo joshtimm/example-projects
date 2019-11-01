@@ -2,10 +2,14 @@
  
 This is a simple collection of projects that demonstrate some of the skills I possess that are relevant to data science: R and Python programming, research design and experimental design, data analysis and classification, LaTeX, and Tableau. Below is a description of each project file, but I will briefly explain for a quick look:
 
-(1) For a fully fleshed out paper that uses machine learning methods and data visualization, check incivility_article.pdf. \\
+(1) For a fully fleshed out paper that uses machine learning methods and data visualization, check incivility_article.pdf.
+
 (2) For an example of an experimental design, check the file `experiment_design_paper.pdf` within the `experimental_design_paper` folder.
+
 (3) For an example of using tableau to visualize twitter data, look at `tableau_clinton_trump_maps.pdf`.
+
 (4) For an example of code interacting with APIs, check out `google_vision_classification.py`.
+
 (5) For an example of a fairly silly but fun project that uses the Twitter API, a bit of simple randomization in Python, and scheduled tasks using launchctl, check out `random_salad.py` and its accompanying Twitter Bot, `@randomsaladboi`.
 
 # incivility-article.pdf
