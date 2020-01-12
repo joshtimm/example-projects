@@ -6,11 +6,10 @@ This is a simple collection of projects that demonstrate some of the skills I po
 
 (2) For an example of an experimental design, check the file `experiment_design_paper.pdf` within the `experimental_design_paper` folder.
 
-(3) For an example of using tableau to visualize twitter data, look at `tableau_clinton_trump_maps.pdf`.
-
 (4) For an example of code interacting with APIs, check out `google_vision_classification.py`.
 
-(5) For an example of a fairly silly but fun project that uses the Twitter API, a bit of simple randomization in Python, and scheduled tasks using launchctl, check out `random_salad.py` and its accompanying Twitter Bot `@randomsaladboi`.
+(3) For an example of using tableau to visualize twitter data, look at `tableau_clinton_trump_maps.pdf`.
+
 
 # incivility-article.pdf
 
@@ -29,10 +28,5 @@ This code takes a folder of images (and only images), and submits the images to 
 # tableau_clinton_trump_maps.pdf
 
 This is a brief research finding to demonstrate some basic Tableau visualizations. The research itself shows differences in newspaper coverage of presidential candidate tweets during the 2016 general election. I tracked tweets made by Donald Trump and Hillary Clinton for several months using the Twitter API, and then tracked those tweets to a sample of newspaper articles to make some descriptive findings about media coverage of candidate twitter usage. The simple conclusion is that newspapers wrote more about Donald Trump's tweets and quoted his tweets at rates considerably higher than Clinton's, despite the fact that Clinton actually tweeted more than Trump.
-
-# random_salad.py and accompanying random salad twitterbot
-
-This is a very silly project that I made for my friend and I, who frequent a restaurant called "Simply Salad" for lunch. Simply Salad offers fully customizable salads, and my friend was determined to try as many combinations of salad ingredients as possible. To do this, he used a random number generator app on his phone to pick his ingredients. Seeing that this was a waste of time and that the process could be streamlined, I decided to make a twitter bot that would randomly generate salads and tweet out the random salads twice a day. That random salad generator can be found at https://twitter.com/randomsaladboi. The salads are generally gross, but the fun is real.
-
 
 
