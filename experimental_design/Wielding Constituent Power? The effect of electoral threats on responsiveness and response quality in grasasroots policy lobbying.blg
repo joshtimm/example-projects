@@ -1,0 +1,72 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Wielding Constituent Power? The effect of electoral threats on responsiveness and response quality in grasasroots policy lobbying.aux
+The style file: abbrv.bst
+Database file #1: lit.bib
+Warning--entry type for "Henschel:aa" isn't style-file defined
+--line 83 of file lit.bib
+Warning--entry type for "Brinlee:2018aa" isn't style-file defined
+--line 95 of file lit.bib
+Warning--entry type for "Ballotpedia:2018aa" isn't style-file defined
+--line 113 of file lit.bib
+Warning--entry type for "Michael-Keller:aa" isn't style-file defined
+--line 141 of file lit.bib
+Warning--entry type for "Scott-Wong:2018aa" isn't style-file defined
+--line 158 of file lit.bib
+Warning--entry type for "Marans:2018aa" isn't style-file defined
+--line 168 of file lit.bib
+Too many commas in name 1 of "Michael Keller, Eliza Shapiro, Abby Haglage, Caitlin Dickson, Brian Abelson, Luke Kerr-Dineen" for entry Michael-Keller:aa
+while executing---line 1049 of file abbrv.bst
+Too many commas in name 1 of "Michael Keller, Eliza Shapiro, Abby Haglage, Caitlin Dickson, Brian Abelson, Luke Kerr-Dineen" for entry Michael-Keller:aa
+while executing---line 1049 of file abbrv.bst
+Too many commas in name 1 of "Michael Keller, Eliza Shapiro, Abby Haglage, Caitlin Dickson, Brian Abelson, Luke Kerr-Dineen" for entry Michael-Keller:aa
+while executing---line 1049 of file abbrv.bst
+Warning--empty journal in CMF:2011aa
+Too many commas in name 1 of "Michael Keller, Eliza Shapiro, Abby Haglage, Caitlin Dickson, Brian Abelson, Luke Kerr-Dineen" for entry Michael-Keller:aa
+while executing---line 1090 of file abbrv.bst
+Too many commas in name 1 of "Michael Keller, Eliza Shapiro, Abby Haglage, Caitlin Dickson, Brian Abelson, Luke Kerr-Dineen" for entry Michael-Keller:aa
+while executing---line 1090 of file abbrv.bst
+Too many commas in name 1 of "Michael Keller, Eliza Shapiro, Abby Haglage, Caitlin Dickson, Brian Abelson, Luke Kerr-Dineen" for entry Michael-Keller:aa
+while executing---line 1090 of file abbrv.bst
+You've used 21 entries,
+            2118 wiz_defined-function locations,
+            626 strings with 6938 characters,
+and the built_in function-call counts, 5126 in all, are:
+= -- 486
+> -- 182
+< -- 0
++ -- 78
+- -- 54
+* -- 269
+:= -- 879
+add.period$ -- 59
+call.type$ -- 21
+change.case$ -- 84
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 209
+empty$ -- 486
+format.name$ -- 54
+if$ -- 1082
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 21
+newline$ -- 102
+num.names$ -- 42
+pop$ -- 134
+preamble$ -- 1
+purify$ -- 69
+quote$ -- 0
+skip$ -- 149
+stack$ -- 0
+substring$ -- 246
+swap$ -- 20
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 70
+warning$ -- 1
+while$ -- 51
+width$ -- 23
+write$ -- 211
+(There were 6 error messages)
